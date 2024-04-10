@@ -72,3 +72,6 @@ function AddCourse() {
     </div>
   );
 }
+
+
+export default AddCourse;
